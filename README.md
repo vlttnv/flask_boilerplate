@@ -1,6 +1,6 @@
 # Running
 
-1. `pip install -r requirements`
+1. `pip install -r requirements.txt`
 2. `source .env.local`
 3. `make run`
 
